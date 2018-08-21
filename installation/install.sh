@@ -1,2 +1,2 @@
 #!/bin/bash
-./install_avrdude.sh
+$PWD/installation/install_avrdude.sh 
